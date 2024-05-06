@@ -1,0 +1,98 @@
+body{
+    background-color: black;
+}
+
+.newpaper{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.magazine1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.magazine2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.style1{
+    text-decoration: underline;  
+}
+
+.style2{
+    text-transform: uppercase;
+}
+
+.style3{
+    box-shadow: 2px 2px 2px black;
+}
+
+.style4{
+    background-color: #ffc107;
+    color: black;
+}
+
+.style5{
+    background-color: purple;
+    color: white;
+    transform: rotate(-10deg);
+}
+
+.style6{
+    font-size: 24px;
+    background-color: lightgreen;
+}
+
+.style7{
+    font-size: 36px;
+    background-color: lightcoral;
+}
+
+.style8{
+    font-size: 48px;
+    background-color: tomato;
+    transform: rotate(10deg);
+}
+
+.medium{
+    font-size: 30px;
+}
+
+.BIG{
+    font-size: 30px;
+}
+
+.reallybig{
+    font-size: 42px;
+}
+
+.rotateleft{
+    transform: rotate(-15deg);
+}
+
+.rotateright{
+    transform: rotate(15deg);
+}
+
+.skewleft{
+    transform: skewX(-15deg);
+}
+
+.skewright{
+    transform: skewX(15deg);
+}
+
+.red{color: red;}
+.blue{color: blue;}
+.orange{color: orange;}
+.yellow{color: yellow;}
+.pink{color: pink;}
+.purple{color: purple;}
+.green{color: green;}
+
+button{
+    border-radius: 20px;
+    background-color: #ffc107;
+    width: 75px;
+}
